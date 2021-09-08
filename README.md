@@ -4,3 +4,8 @@
 
 * and see where it leads me :)
 
+## this is the begining of an amazing story
+
+Once uppon a time there was a lost missing git branch swarming around the internet looking for its master
+the branch was alone, cold, nobody was taking care of it, until a coder newbie stumbled uppon it and decided to check it out !
+the newbie wasn't even aware of it, but this was the begining of an amazing adventure. 
