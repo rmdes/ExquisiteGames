@@ -1,17 +1,23 @@
-# This is my Exquisite Repo
+# BeCode: Exquisite Games
 
-## I will start by writing non-sense into this repo
+> 🛰️ Short project's description
 
-* and see where it leads me :)
+* * *
 
-## this is the begining of an amazing story
+A short abstract of the project, goals, context… Anything that should be useful for a future reader.
 
-Once uppon a time there was a lost missing git branch swarming around the internet looking for its master
-the branch was alone, cold, nobody was taking care of it, until a coder newbie stumbled uppon it and decided to check it out !
-the newbie wasn't even aware of it, but this was the begining of an amazing adventure
+## About
 
-### Christian 
+A more detailed description of the project, with technical details: used langages and techs, context, etc.
 
-There is no non-sense that doesn't make sense
+## Installation (if applicable)
 
-### Mhamed still reading
+Details of process to install / setup dev environment for the project, if applicable.
+
+## Usage (if applicable)
+
+How to use the project, if applicable
+
+* * *
+
+September 2021, Ricardo Mendes.
